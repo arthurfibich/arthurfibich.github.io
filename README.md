@@ -1,1 +1,1 @@
-# school_planner
+Schuldiskussionsplattform
